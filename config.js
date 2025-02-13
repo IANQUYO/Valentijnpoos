@@ -22,14 +22,14 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Will you be my valentine keppetje?",                                    // First interaction
-            yesBtn: "Jazeker",                                             // Text for "Yes" button
-            noBtn: "Nee",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "Do you like your poo?",                                    // First interaction
+            yesBtn: "Yesh",                                             // Text for "Yes" button
+            noBtn: "No",                                               // Text for "No" button
+            secretAnswer: "I don't like poo, I love poo and i want to be his valentijntje! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            startText: "Poepoemuch!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "Yay! valentinepoos! ! 🎉💝💖💝💓",
+        message: "Now come get your gift, issa a big warm huggie and a kissie!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
